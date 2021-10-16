@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "description": "",
+  "name": "learn-implement-a-reactive-system-test0",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  }
+}
